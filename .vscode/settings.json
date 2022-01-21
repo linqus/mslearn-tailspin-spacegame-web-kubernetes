@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/microsoft/azure-pipelines-vscode/v1.174.2/service-schema.json": "file:///Users/karol/mslearn-tailspin-spacegame-web-kubernetes/azure-pipelines.yml"
+    }
+}
